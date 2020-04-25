@@ -107,6 +107,6 @@ Following are few sources, that you can consult for practicing for the exam.<br>
 3. YouTube <a href = "https://www.youtube.com/watch?v=ZscaJ1G_s4A">[link]</a>
 
 <h3>AUTHOR</h3>
-  <a href = "https://github.com/qasim1020">GitHuh</a><br>
+  <a href = "https://github.com/qasim1020">GitHub</a><br>
   <a href = "https://www.linkedin.com/in/qasim-hassan-108725180/">LinkedIn</a>
   
