@@ -88,8 +88,11 @@ Solve complex computing problems by using built-in modules<br>
 <h3>Preparation Material</h3>
 1. Microsoft Lectures <a href = "https://sites.google.com/a/nu.edu.pk/noman-islam/exam-98-381-introduction-to-programming-using-python/98-381%20exam%20%28Microsoft%20Presentations%29.zip?attredirects=0&d=1">[download]</a><br>
 2. Keywords in Python<br>
+<img src = "/Images/python-keywords.png">
 3. Python operators precedence chart<br>
+<img src = "/Images/python-operator-precedence.jpg">
 4. Modes for opening file<br>
+<img src ="/Images/file modes.png" >
 5. Python Crash Course: Chapter 2-8, 10 <a href = "https://docs.google.com/a/nu.edu.pk/viewer?a=v&pid=sites&srcid=bnUuZWR1LnBrfG5vbWFuLWlzbGFtfGd4OjRkOGM4ODY3ZmQzODY3NDM">[download]</a><br>
 6. Random Numbers <a href = "https://pythonspot.com/random-numbers/?fbclid=IwAR13LxE7PauSDeeBXZ3ghrBZJfPMrRYpdMCnK-10BWpOsrpku3kL_xVXNbk">Link</a><br>
 7. Pydoc and docstring <a href = "https://www.datacamp.com/community/tutorials/docstrings-python?fbclid=IwAR0gkPPx6rphejsSmWB7-zSgj_d908aWY7dCEkjJ-Ya6nMgYgn9vXuFfHhY">[link1]</a> and <a href = "https://www.youtube.com/watch?v=T_uxaPV6YLA">[link2]</a><br>
