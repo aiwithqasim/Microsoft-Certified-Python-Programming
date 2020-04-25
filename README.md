@@ -1,9 +1,9 @@
 <h1> (MICROSOFT) Introduction to Programming Using Python<h1>
 
-<h3>About Test</h3>
+<h3>A-About Test</h3>
 The test comprises 40 questions to be completed in 45 minutes. Some of the questions are too lengthy and there can be short sub-questions in a question. So, you need to be very fast while attempting this test.
 
-<h3>Syllabus</h3>
+<h3>B-Syllabus</h3>
 <h4>1-Perform Operations using Data Types and Operators (20-25%)</h4><br>
 Evaluate an expression to identify the data type Python will assign to each variable
 <ul>
@@ -85,16 +85,28 @@ Solve complex computing problems by using built-in modules<br>
   <li>Math; datetime; random</li>
 </ul>
 
-<h3>Preparation Material</h3>
+<h3>C-Preparation Material</h3>
 1. Microsoft Lectures <a href = "https://sites.google.com/a/nu.edu.pk/noman-islam/exam-98-381-introduction-to-programming-using-python/98-381%20exam%20%28Microsoft%20Presentations%29.zip?attredirects=0&d=1">[download]</a><br>
-2. Keywords in Python<br>
+2. Keywords in Python<br><br>
 <img src = "/Images/python-keywords.png">
 3. Python operators precedence chart<br>
 <img src = "/Images/python-operator-precedence.jpg">
 4. Modes for opening file<br>
 <img src ="/Images/file modes.png" >
 5. Python Crash Course: Chapter 2-8, 10 <a href = "https://docs.google.com/a/nu.edu.pk/viewer?a=v&pid=sites&srcid=bnUuZWR1LnBrfG5vbWFuLWlzbGFtfGd4OjRkOGM4ODY3ZmQzODY3NDM">[download]</a><br>
-6. Random Numbers <a href = "https://pythonspot.com/random-numbers/?fbclid=IwAR13LxE7PauSDeeBXZ3ghrBZJfPMrRYpdMCnK-10BWpOsrpku3kL_xVXNbk">Link</a><br>
+6. Random Numbers <a href = "https://pythonspot.com/random-numbers/?fbclid=IwAR13LxE7PauSDeeBXZ3ghrBZJfPMrRYpdMCnK-10BWpOsrpku3kL_xVXNbk">[Link]</a><br>
 7. Pydoc and docstring <a href = "https://www.datacamp.com/community/tutorials/docstrings-python?fbclid=IwAR0gkPPx6rphejsSmWB7-zSgj_d908aWY7dCEkjJ-Ya6nMgYgn9vXuFfHhY">[link1]</a> and <a href = "https://www.youtube.com/watch?v=T_uxaPV6YLA">[link2]</a><br>
 8. Math module <a href = "https://docs.python.org/3/library/math.html?fbclid=IwAR0_vZCaKJiMA7mOuVPDOIb2JJ96y2BNOg4pgxsyVxrBD5GKf2LfCqNsyyc">[link]</a><br>
 9. Sys module <a href = "https://python101.pythonlibrary.org/chapter20_sys.html?fbclid=IwAR1jXJpwcCc6WTkuplYc5v2eT_pvngXpqzy3bctcyJtkRJwT9vGJXCwhkGQ">[link1]</a> and <a href = "https://www.python-course.eu/sys_module.php?fbclid=IwAR2FoRg7nOwn_BRg3HWu-wrTw2v4njijW6r321EV73MGcr5abQlh0fy30Qg">[link2]</a><br>
+
+<h3>D-Practice Tests<h3>
+Following are few sources, that you can consult for practicing for the exam.<br>
+
+1. SanFoundary <a href = "https://www.sanfoundry.com/1000-python-questions-answers/">[link]</a>
+2. GeeksForGeeks <a href = "https://www.geeksforgeeks.org/python-multiple-choice-questions/">[link]</a>
+3. YouTube <a href = "https://www.youtube.com/watch?v=ZscaJ1G_s4A">[link]</a>
+
+<h3>AUTHOR<h3>
+  <a href = "https://github.com/qasim1020">GitHuh</a>
+  <a href = "https://www.linkedin.com/in/qasim-hassan-108725180/">LinkedIn</a>
+  
