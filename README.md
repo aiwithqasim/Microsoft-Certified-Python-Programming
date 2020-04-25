@@ -99,14 +99,14 @@ Solve complex computing problems by using built-in modules<br>
 8. Math module <a href = "https://docs.python.org/3/library/math.html?fbclid=IwAR0_vZCaKJiMA7mOuVPDOIb2JJ96y2BNOg4pgxsyVxrBD5GKf2LfCqNsyyc">[link]</a><br>
 9. Sys module <a href = "https://python101.pythonlibrary.org/chapter20_sys.html?fbclid=IwAR1jXJpwcCc6WTkuplYc5v2eT_pvngXpqzy3bctcyJtkRJwT9vGJXCwhkGQ">[link1]</a> and <a href = "https://www.python-course.eu/sys_module.php?fbclid=IwAR2FoRg7nOwn_BRg3HWu-wrTw2v4njijW6r321EV73MGcr5abQlh0fy30Qg">[link2]</a><br>
 
-<h3>D-Practice Tests<h3>
+<h3>D-Practice Tests</h3>
 Following are few sources, that you can consult for practicing for the exam.<br>
 
 1. SanFoundary <a href = "https://www.sanfoundry.com/1000-python-questions-answers/">[link]</a>
 2. GeeksForGeeks <a href = "https://www.geeksforgeeks.org/python-multiple-choice-questions/">[link]</a>
 3. YouTube <a href = "https://www.youtube.com/watch?v=ZscaJ1G_s4A">[link]</a>
 
-<h3>AUTHOR<h3>
-  <a href = "https://github.com/qasim1020">GitHuh</a>
+<h3>AUTHOR</h3>
+  <a href = "https://github.com/qasim1020">GitHuh</a><br>
   <a href = "https://www.linkedin.com/in/qasim-hassan-108725180/">LinkedIn</a>
   
